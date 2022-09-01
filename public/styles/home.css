@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background-color: lawngreen;
+    overflow-x: hidden;
+}
+
+img {
+    width: 100vw;
+}
+
+#home {
+    margin-left: 5%;
+    text-align: center;
+}
+
+#photos {
+    background-color: white;
+}
